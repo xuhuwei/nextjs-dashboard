@@ -1,0 +1,2 @@
+import {} from 'next/headers'
+
